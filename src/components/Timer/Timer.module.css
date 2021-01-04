@@ -1,0 +1,10 @@
+.TimerValues {
+  font-size: 100px;
+  font-family: Roboto;
+  margin: 20px auto;
+}
+
+.TimerButtons {
+  display: flex;
+  justify-content: center;
+}
